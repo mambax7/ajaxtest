@@ -32,7 +32,7 @@ if (!empty($_POST)) {
         $select_query = 'SELECT * FROM ' . $xoopsDB->prefix('ajaxtest_employee') . ' ORDER BY id DESC';
         $result       = $xoopsDB->queryF($select_query);
         $output       .= '  
-                <table class="table table-bordered">  
+                <table class="table table-hover table-bordered">  
                      <tr>  
                           <th width="70%">Employee Name</th>  
                           <th width="15%">Edit</th>  

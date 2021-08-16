@@ -2,7 +2,7 @@
 <div class="panel panel-info">
     <div class="panel-heading"><h2 class="panel-title"><strong>Employee</strong></h2></div>
 
-    <table class="table table-striped">
+    <table class="table table-hover table-striped">
         <thead>
         <tr>
             <th><{$smarty.const.MD_AJAXTEST_EMPLOYEE_ID}></th>

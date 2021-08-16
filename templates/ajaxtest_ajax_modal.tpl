@@ -11,7 +11,7 @@
         </div>
         <br/>
         <div id="employee_table">
-            <table class="table table-bordered">
+            <table class="table  table-hover table-bordered">
                 <tr>
                     <th width="70%">Employee Name</th>
                     <th width="15%">Edit</th>

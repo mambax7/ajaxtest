@@ -2,7 +2,7 @@
 <div class="panel panel-info">
     <div class="panel-heading"><h2 class="panel-title">Employee </h2></div>
 
-    <table class="table table-striped">
+    <table class="table table-hover table-striped">
         <thead>
         <tr>
         </tr>

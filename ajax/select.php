@@ -23,7 +23,7 @@ if (isset($_POST['employee_id'])) {
 
     $output .= '  
       <div class="table-responsive">  
-           <table class="table table-bordered">';
+           <table class="table table-hover table-bordered">';
     while (false !== $row = $xoopsDB->fetchArray($result)) {
         $output .= '  
                 <tr>  
