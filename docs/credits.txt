@@ -1,0 +1,8 @@
+CREDITS
+=============
+
+Originally created by the XOOPS Development Team.
+
+Includes code from: https://www.webslesson.info/2016/10/php-ajax-update-mysql-data-through-bootstrap-modal.html
+
+

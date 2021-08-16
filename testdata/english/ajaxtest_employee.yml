@@ -1,0 +1,160 @@
+-
+    id: '1'
+    name: 'Bruce Tom'
+    address: "656 Edsel Road\r\nSherman Oaks, CA 91403"
+    gender: Male
+    designation: Driver
+    age: '36'
+    image: 1.jpg
+-
+    id: '5'
+    name: 'Clara Gilliam'
+    address: "63 Woodridge Lane\r\nMemphis, TN 38138"
+    gender: Female
+    designation: Programmer
+    age: '24'
+    image: 2.jpg
+-
+    id: '6'
+    name: 'Barbra K. Hurley'
+    address: "1241 Canis Heights Drive\r\nLos Angeles, CA 90017"
+    gender: Female
+    designation: 'Service technician'
+    age: '26'
+    image: 3.jpg
+-
+    id: '7'
+    name: 'Antonio J. Forbes'
+    address: "403 Snyder Avenue\r\nCharlotte, NC 28208"
+    gender: Male
+    designation: Faller
+    age: '32'
+    image: 4.jpg
+-
+    id: '8'
+    name: 'Charles D. Horst'
+    address: "1636 Walnut Hill Drive\r\nCincinnati, OH 45202"
+    gender: Male
+    designation: 'Financial investigator'
+    age: '29'
+    image: 5.jpg
+-
+    id: '175'
+    name: 'Ronald D. Colella'
+    address: '1571 Bingamon Branch Road, Barrington, IL 60010'
+    gender: Male
+    designation: 'Top executive'
+    age: '32'
+    image: 6.jpg
+-
+    id: '174'
+    name: 'Martha B. Tomlinson'
+    address: '4005 Bird Spring Lane, Houston, TX 77002'
+    gender: Female
+    designation: 'Systems programmer'
+    age: '38'
+    image: 7.jpg
+-
+    id: '161'
+    name: 'Glenda J. Stewart'
+    address: '3482 Pursglove Court, Rossburg, OH 45362'
+    gender: Female
+    designation: 'Cost consultant'
+    age: '28'
+    image: 8.jpg
+-
+    id: '162'
+    name: 'Jarrod D. Jones'
+    address: '3827 Bingamon Road, Garfield Heights, OH 44125'
+    gender: Male
+    designation: 'Manpower development advisor'
+    age: '64'
+    image: 9.jpg
+-
+    id: '163'
+    name: 'William C. Wright'
+    address: '2653 Pyramid Valley Road, Cedar Rapids, IA 52404'
+    gender: Male
+    designation: 'Political geographer'
+    age: '33'
+    image: 10.jpg
+-
+    id: '178'
+    name: 'Sara K. Ebert'
+    address: "1197 Nelm Street\r\nMc Lean, VA 22102"
+    gender: Female
+    designation: 'Billing machine operator'
+    age: '50'
+    image: 11.jpg
+-
+    id: '177'
+    name: 'Patricia L. Scott'
+    address: "1584 Dennison Street\r\nModesto, CA 95354"
+    gender: Female
+    designation: 'Urban and regional planner'
+    age: '54'
+    image: 12.jpg
+-
+    id: '179'
+    name: 'James K. Ridgway'
+    address: "3462 Jody Road\r\nWayne, PA 19088"
+    gender: Female
+    designation: 'Recreation leader'
+    age: '41'
+    image: 13.jpg
+-
+    id: '180'
+    name: 'Stephen A. Crook'
+    address: "448 Deercove Drive\r\nDallas, TX 75201"
+    gender: Male
+    designation: 'Optical goods worker'
+    age: '36'
+    image: 14.jpg
+-
+    id: '181'
+    name: 'Kimberly J. Ellis'
+    address: "4905 Holt Street\r\nFort Lauderdale, FL 33301"
+    gender: Male
+    designation: 'Dressing room attendant'
+    age: '24'
+    image: 15.jpg
+-
+    id: '182'
+    name: 'Elizabeth N. Bradley'
+    address: "1399 Randall Drive\r\nHonolulu, HI 96819"
+    gender: Female
+    designation: ' Software quality assurance analyst'
+    age: '25'
+    image: 16.jpg
+-
+    id: '183'
+    name: 'Steve John'
+    address: '108, Vile Parle, CL'
+    gender: Male
+    designation: 'Software Engineer'
+    age: '29'
+    image: 17.jpg
+-
+    id: '184'
+    name: 'Marks Johnson'
+    address: '021, Big street, NY'
+    gender: Male
+    designation: 'Head of IT'
+    age: '41'
+    image: 18.jpg
+-
+    id: '185'
+    name: 'Mak Pub'
+    address: "1462 Juniper Drive\r\nBreckenridge, MI 48612"
+    gender: Male
+    designation: 'Mental health counselor'
+    age: '40'
+    image: 19.jpg
+-
+    id: '186'
+    name: 'Louis C. Charmis'
+    address: "1462 Juniper Drive\r\nBreckenridge, MI 48612"
+    gender: Male
+    designation: 'Mental health counselor'
+    age: '40'
+    image: 20.jpg
